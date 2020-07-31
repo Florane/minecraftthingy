@@ -1,0 +1,28 @@
++----------------------------+-------+---------+-------------------------------+
+| Material List for schematic 'lainart (Converted Schematic)' (1 of 1 regions) |
++----------------------------+-------+---------+-------------------------------+
+| Item                       | Total | Missing |                     Available |
++----------------------------+-------+---------+-------------------------------+
+| Black Concrete             |   585 |     585 |                             0 |
+| Red Nether Bricks          |   215 |     215 |                             0 |
+| Block of Coal              |    48 |      48 |                             0 |
+| Cut Sandstone              |    34 |      34 |                             0 |
+| Cyan Terracotta            |    22 |      22 |                             0 |
+| Black Concrete Powder      |    16 |      16 |                             0 |
+| Purple Terracotta          |    14 |      14 |                             0 |
+| Gray Wool                  |    13 |      13 |                             0 |
+| Green Concrete             |    12 |      12 |                             0 |
+| Birch Log                  |    10 |      10 |                             0 |
+| Dark Oak Log               |    10 |      10 |                             0 |
+| Nether Wart Block          |     8 |       8 |                             0 |
+| Lime Concrete              |     7 |       7 |                             0 |
+| Black Terracotta           |     6 |       6 |                             0 |
+| Brown Wool                 |     6 |       6 |                             0 |
+| Light Gray Concrete Powder |     6 |       6 |                             0 |
+| Brown Terracotta           |     4 |       4 |                             0 |
+| Green Concrete Powder      |     3 |       3 |                             0 |
+| Oak Planks                 |     3 |       3 |                             0 |
+| Snow Block                 |     2 |       2 |                             0 |
++----------------------------+-------+---------+-------------------------------+
+| Item                       | Total | Missing |                     Available |
++----------------------------+-------+---------+-------------------------------+
